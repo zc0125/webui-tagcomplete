@@ -1,5 +1,5 @@
 # 说明
-## 使用参考原项目地址:[a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
+## 使用请到原项目地址:[a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
 
 ## 本次汉化
 
